@@ -1,4 +1,4 @@
-document.write('<script language="javascript" src="/static/weicity/pubset/set.js"></script>');
+document.write('<script language="javascript" src="https://junoriaz.github.io/WdsApp/pubset/set.js"></script>');
 function fontAuto(){
 var winW=document.documentElement.clientWidth;
 if(winW>=750)
